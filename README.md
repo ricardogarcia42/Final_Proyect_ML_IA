@@ -47,4 +47,4 @@ Conclusion:
 
 The results for the trained model are of a high accuracy but this does not mean it is good. It is a dataset just fine to perform this project but it is not very confident because it is small and filling its values can improve its accuracy but does not mean it is absolutely right. After performing a dimensional reduction the results where the same, but this result is as acpected as the dataset is not the biggest one. 
 
-
+Youtube video for the explanation of the repository: https://youtu.be/BDCvmxQEi7w
